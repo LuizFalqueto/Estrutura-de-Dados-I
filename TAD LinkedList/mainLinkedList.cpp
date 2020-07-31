@@ -11,6 +11,7 @@ int main() {
 	Info *tempInfo;
 
 	double soma = 123.23;
+    printf("Lista encadeada!");
 	printf("%f\n", soma);
 	printf("%8f\n", soma);
 	printf("%012f\n", soma);
